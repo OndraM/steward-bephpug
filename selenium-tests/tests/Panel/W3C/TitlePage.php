@@ -1,6 +1,6 @@
 <?php
 
-namespace My\Pages;
+namespace My\Panel\W3C;
 
 use Facebook\WebDriver\WebDriverElement;
 use Lmc\Steward\Component\AbstractComponent;

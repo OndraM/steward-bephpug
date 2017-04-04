@@ -3,7 +3,7 @@
 namespace My;
 
 use Facebook\WebDriver\WebDriverDimension;
-use My\Pages\TitlePage;
+use My\Panel\W3C\TitlePage;
 
 /**
  * Example and simple tests of w3.org title page in mobile mode.
